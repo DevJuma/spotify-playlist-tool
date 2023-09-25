@@ -1,3 +1,4 @@
 .env
+.cache
 .venv
 get_package_version.py
